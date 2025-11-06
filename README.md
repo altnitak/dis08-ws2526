@@ -14,6 +14,14 @@ You will use this repository to document your **lab assignments** throughout the
 > 4. Send an email to Timo Breuer, including 1) your GitHub handle, 2) your full name, and 3) your student ID. 
 > 5. Commit your solutions to the corresponding sub-directories. **Your solutions must be submitted by 23:59 (11:59 PM) on January 16, 2026.** Commits after the deadline will not be considered.
 
+> [!IMPORTANT]
+> [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is fun, but I do not recommend it if you want to learn programming! However, I encourage you to use large language models (LLMs) to implement your ideas! In case you are pair-programming with an LLM, document the process by following these steps:
+> 1. **Always try to solve the problem on your own!** Document your implementation and problems.
+> 2. Ask the LLM for a solution or code review.
+> 3. Document the exact model, your prompt, and the output.
+> 4. Review your implementation by comparing it to the LLM output. What is the key difference?
+> 5. Add the Markdown-formatted documentation to your code repository, e.g., in an additional Markdown file called `genai.md` in the corresponding `labs/` sub-directory.
+
 ## Lab exercises
 
 | No. | Date | Topic | Directory | Task |
@@ -30,10 +38,4 @@ You will use this repository to document your **lab assignments** throughout the
 | **10** | 2025/01/08 | Machine Learning | [`./labs/10/`](./labs/10/) | [:link:](https://gist.github.com/breuert/00e13810eb3ec17e7a3701a935361474) |
 
 
-> [!IMPORTANT]
-> [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is fun, but I do not recommend it if you want to learn programming! However, I encourage you to use large language models (LLMs) to implement your ideas! In case you are pair-programming with an LLM, document the process by following these steps:
-> 1. **Always try to solve the problem on your own!** Document your implementation and problems.
-> 2. Ask the LLM for a solution or code review.
-> 3. Document the exact model, your prompt, and the output.
-> 4. Review your implementation by comparing it to the LLM output. What is the key difference?
-> 5. Add the Markdown-formatted documentation to your code repository, e.g., in an additional Markdown file called `genai.md` in the corresponding `labs/` sub-directory.
+
